@@ -12,6 +12,13 @@
   align-items: center;
 }
 
+.nav-image {
+  display: flex;
+  gap: 5px;
+  justify-content: center;
+  align-items: center;
+}
+
 .footer {
   display: flex;
   flex: 1;
